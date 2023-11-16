@@ -17,6 +17,8 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
     <a href="#"><img alt="Nodo.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a >
     <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a >
+    <a href="#"><img alt="Open VSX Downloads" src="https://img.shields.io/open-vsx/dt/java/:extension"></a>
+
 </p>
 ### 🧰 Frameworks y Librerías
 <p>
