@@ -39,11 +39,6 @@
 **Otras habilidades**  
 📄 Documentación profesional  
 🧠 Lógica visual y estructurada  
-🧩 Gestión de sesiones, arrays y compatibilidades  
-🗂️ Organización de proyectos y comunicación clara
-
-
-<img src="https://readme-typing-svg.herokuapp.com?lines=Apasionado+por+la+tecnología;Full+Stack+Developer+en+formación;Buscando+prácticas+DAW+2026;Siempre+aprendiendo+y+mejorando" />
 
 ### 🗄️ Bases de datos y formatos
 
@@ -52,6 +47,9 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-FFA500?style=for-the-badge)
+
+
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=dark" />
