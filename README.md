@@ -43,6 +43,7 @@
 🗂️ Organización de proyectos y comunicación clara
 
 
+<img src="https://readme-typing-svg.herokuapp.com?lines=Apasionado+por+la+tecnología;Full+Stack+Developer+en+formación;Buscando+prácticas+DAW+2026;Siempre+aprendiendo+y+mejorando" />
 
 ### 🗄️ Bases de datos y formatos
 
