@@ -52,4 +52,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-FFA500?style=for-the-badge)
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moimient844&show_icons=true&theme=dark" />
+</p>
 
