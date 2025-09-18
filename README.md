@@ -7,13 +7,23 @@
 <!-- Escritura de SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&multiline=true&width=500&height=80&lines=Iker+Martínez+Velasco;Estudiante+DAW+en+busca+de+prácticas+inclusivas;Frontend+%7C+Backend+%7C+Full+Stack;JavaScript+%7C+PHP+%7C+AJAX+%7C+JSON+%7C+Node.js+%7C+Angular">
+    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Iker+Martínez++;+Full-Stack-Web-Developer">
   </a>
 </p>
+
 
 <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
 
  🛠️ Mis herramientas favoritas
+ ### 🛠️ Tecnologías y herramientas
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
  
  👨 💻 Lenguajes de Programación
 <p>
