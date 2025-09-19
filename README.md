@@ -12,10 +12,11 @@
 
 
 <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Desarrollador+Web+Fullstack;Apasionado+por+Angular+y+Node.js;Buscando+prácticas+inclusivas+en+2026" />
-</p>
+<div align="center">
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Fullstack;Apasionado+por+Angular+y+Node.js;Buscando+prácticas+inclusivas+en+2026)
+
+</div>
 
 
 ### 🛠️ Tecnologías y herramientas
