@@ -14,6 +14,10 @@
 
 <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=dark" />
+</p>
+
 ### 🛠️ Tecnologías y herramientas
 
 **Lenguajes**  
@@ -58,7 +62,4 @@
 
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=dark" />
-</p>
 
