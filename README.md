@@ -5,7 +5,7 @@
 </h3>
 
 <!-- Escritura de SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moimenta84&theme=github_dark" />
 </p>
 
