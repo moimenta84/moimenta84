@@ -1,4 +1,8 @@
  # Iker Martínez
+<h3 align="letf">
+  ¡Bienvenido a mi perfil!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <!-- Escritura de SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="left">
@@ -52,10 +56,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-FFA500?style=for-the-badge)
 
-<h3 align="centro">
-  ¡Bienvenido a mi perfil!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
 
 
 
