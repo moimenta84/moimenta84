@@ -1,4 +1,4 @@
-                                                                                     # Iker Martínez
+ # Iker Martínez
 <h3 align="centro">
   ¡Bienvenido a mi perfil!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -36,9 +36,16 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Otras habilidades**  
-📄 Documentación profesional  
-🧠 Lógica visual y estructurada  
+## 🚀 Proyectos destacados
+
+1. [Seven To Hell](https://github.com/moimenta84/Seven-To-Hell)  
+   Juego web con lógica visual y sistema de puntuación. Refactorizado con JS moderno.
+
+2. [Agencia de Viajes](https://github.com/moimenta84/Agencia-de-Viajes)  
+   Sitio responsive con filtros dinámicos y simulación de reservas. Integración de JSON y PHP.
+
+3. [CRM RP](https://github.com/moimenta84/CRM-RP)  
+   Gestión de clientes y productos con panel administrativo. Uso de AJAX y validaciones.
 
 ### 🗄️ Bases de datos y formatos
 
