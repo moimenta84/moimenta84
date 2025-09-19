@@ -6,17 +6,14 @@
 
 <!-- Escritura de SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Iker+Martínez++;+Full-Stack-Web-Developer">
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moimenta84&theme=github_dark" />
 </p>
+
 
 
 <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=dark" />
-</p>
+
 
 ### 🛠️ Tecnologías y herramientas
 
