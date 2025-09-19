@@ -14,6 +14,12 @@
 <!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
 
 
+<p align="rigth">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Fullstack+Developer+en+formación;Apasionado+por+Angular+y+Node.js;Buscando+prácticas+inclusivas+en+2026" />
+</p>
+
+
+
 
 ### 🛠️ Tecnologías y herramientas
 
@@ -55,10 +61,4 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![localStorage](https://img.shields.io/badge/localStorage-FFA500?style=for-the-badge)
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Fullstack+Developer+en+formación;Apasionado+por+Angular+y+Node.js;Buscando+prácticas+inclusivas+en+2026" />
-</p>
-
 
