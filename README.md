@@ -57,7 +57,8 @@ Sistema de gestión de clientes y productos con panel administrativo.
 
 ## 📈 Estadísticas de GitHub  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=moimenta84&theme=github-compact)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
 
 ---
 
