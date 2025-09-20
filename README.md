@@ -43,7 +43,7 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 - Backend en **PHP + PostgreSQL**.  
 - Integración con **JSON** para cargar destinos y reservas.  
 
-🔗 [Repositorio](#) | 🌍 refactorizando
+🔗 [Repositorio](#) | 🌍 Refactorizando código y arquitectura
 
 ---
 
@@ -53,7 +53,7 @@ Sistema de gestión de clientes y productos con panel administrativo.
 - Validaciones en frontend y backend.  
 - CRUD completo con seguridad básica.  
 
-🔗 [Repositorio](#)  En desarrollo
+🔗 [Repositorio](#) Construyendo desde la base, paso a paso
 
 ---
 
