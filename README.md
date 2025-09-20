@@ -1,19 +1,4 @@
-# 👋 Hola, soy Iker Martínez Velasco  
-Output examples/decorations/decorations.gif
-
-Set FontSize 28
-Set Width 1200
-Set Height 800
-Set Padding 30
-
-Set Margin 80
-Set MarginFill "#674EFF"
-Set WindowBar Colorful
-Set WindowBarSize 40
-Set BorderRadius 8
-
-Type "I can't believe it's not butter."
-Sleep 2s
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Apasionado+por+la+tecnología;Construyendo+soluciones+escalables;PHP+|+Java+|+JavaScript+|+SQL)
 
 💻 **Full Stack Developer | PHP • Java • JavaScript • SQL**  
 🚀 Apasionado por crear aplicaciones web escalables, limpias y con impacto real.  
