@@ -1,62 +1,79 @@
- # Iker Martínez
-<h3 align="letf">
-  ¡Bienvenido a mi perfil!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+# 👋 Hola, soy Iker Martínez Velasco  
 
-<!-- Escritura de SVG por DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=moimenta84&theme=github_dark" />
-</p>
+💻 **Full Stack Developer | PHP • Java • JavaScript • SQL**  
+🚀 Apasionado por crear aplicaciones web escalables, limpias y con impacto real.  
 
+---
 
+## 🛠️ Tecnologías y Herramientas  
 
-<!-- Algunas insignias son de https://github.com/Ileriayo/markdown-badges -->
-<div align="center">
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-yellow?logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-8-blue?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-10-ff2d20?logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-18-43853d?logo=node.js)
+![Angular](https://img.shields.io/badge/Angular-17-dd1b16?logo=angular)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5-7952B3?logo=bootstrap)
+![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1?logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-DB-336791?logo=postgresql)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Desarrollador+Web+Fullstack;Apasionado+por+Angular+y+Node.js;Buscando+prácticas+inclusivas+en+2026)
+---
 
-</div>
+## 🚀 Proyectos Destacados  
 
+### 🎮 Seven To Hell (7TH)  
+Juego multijugador con lógica visual y sistema de puntuación.  
+- Registro e inicio de sesión con persistencia en BD.  
+- Reglas dinámicas (aproximación al 80% de la media, penalizaciones y eliminación).  
+- Refactorizado con **Java + Hibernate + PostgreSQL**.  
 
-### 🛠️ Tecnologías y herramientas
+🔗 [Repositorio](#) | 🎥 *(Demo próximamente)*  
 
-**Lenguajes**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+---
 
-**Frameworks y librerías**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![AJAX](https://img.shields.io/badge/AJAX-007FFF?style=for-the-badge&logoColor=white)
+### ✈️ Agencia de Viajes  
+Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión de destinos.  
+- Frontend en **Bootstrap 5** con estilo personalizado.  
+- Backend en **PHP + PostgreSQL**.  
+- Integración con **JSON** para cargar destinos y reservas.  
 
-**Bases de datos y formatos**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+🔗 [Repositorio](#) | 🌍 [Demo online](#)  
 
-**Control de versiones**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+---
 
-## 🚀 Proyectos destacados
+### 📊 CRM RP  
+Sistema de gestión de clientes y productos con panel administrativo.  
+- **AJAX** para interacciones rápidas.  
+- Validaciones en frontend y backend.  
+- CRUD completo con seguridad básica.  
 
-1. [Seven To Hell](https://github.com/moimenta84/Seven-To-Hell)  
-   Juego web con lógica visual y sistema de puntuación. Refactorizado con JS moderno.
+🔗 [Repositorio](#)  
 
-2. [Agencia de Viajes](https://github.com/moimenta84/Agencia-de-Viajes)  
-   Sitio responsive con filtros dinámicos y simulación de reservas. Integración de JSON y PHP.
+---
 
-3. [CRM RP](https://github.com/moimenta84/CRM-RP)  
-   Gestión de clientes y productos con panel administrativo. Uso de AJAX y validaciones.
+## 📈 Estadísticas de GitHub  
 
-### 🗄️ Bases de datos y formatos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkerMartinezVelasco&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkerMartinezVelasco&layout=compact&theme=tokyonight)  
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![localStorage](https://img.shields.io/badge/localStorage-FFA500?style=for-the-badge)
+---
+
+## 🌱 Actualmente aprendiendo  
+- Arquitectura **MVC en PHP**  
+- Optimización de **consultas con Hibernate**  
+- Despliegue con **Docker & Kubernetes**  
+
+---
+
+## 📫 Conecta conmigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Online-orange)](#)  
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tuemail@ejemplo.com)  
+
+---
+
+⭐ *“El código limpio no solo funciona, también se entiende y se mantiene.”*  
 
