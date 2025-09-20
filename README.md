@@ -56,9 +56,8 @@ Sistema de gestión de clientes y productos con panel administrativo.
 ---
 
 ## 📈 Estadísticas de GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IkerMartinezVelasco&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IkerMartinezVelasco&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=compact&theme=tokyonight)
 
 ---
 
