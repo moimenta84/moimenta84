@@ -35,7 +35,7 @@ Juego multijugador con lógica visual y sistema de puntuación.
 - Reglas dinámicas (aproximación al 80% de la media, penalizaciones y eliminación).  
 - Refactorizado con **Java + Hibernate + PostgreSQL**.  
 
-🔗 [Repositorio](#) | 🎥 *(Demo próximamente)*  
+🔗 [Repositorio](https://github.com/moimenta84/7TH) | 🎥 *(Demo próximamente)*  
 
 ---
 
@@ -45,7 +45,7 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 - Backend en **PHP + PostgreSQL**.  
 - Integración con **JSON** para cargar destinos y reservas.  
 
-🔗 [Repositorio](#) | 🌍 Refactorizando código y arquitectura
+🔗 [Repositorio](https://github.com/moimenta84/agencia-viajes) | 🌍 Refactorizando código y arquitectura
 
 ---
 
@@ -55,7 +55,7 @@ Sistema de gestión de clientes y productos con panel administrativo.
 - Validaciones en frontend y backend.  
 - CRUD completo con seguridad básica.  
 
-🔗 [Repositorio](#) Construyendo desde la base, paso a paso
+🔗 [Repositorio](https://github.com/moimenta84/crm-rp) | 🧩 En desarrollo
 
 ---
 
