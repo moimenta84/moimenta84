@@ -45,7 +45,7 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 - Backend en **PHP + PostgreSQL**.  
 - Integración con **JSON** para cargar destinos y reservas.  
 
-🔗 [Repositorio](https://github.com/moimenta84/agencia-viajes) | 🌍 Refactorizando código y arquitectura
+🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
 
 ---
 
