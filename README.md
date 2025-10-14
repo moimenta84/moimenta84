@@ -75,7 +75,6 @@ Sistema de gestión de clientes y productos con panel administrativo.
 
 ## 📫 Conecta conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Online-orange)](#)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tuemail@ejemplo.com)  
 
 ---
