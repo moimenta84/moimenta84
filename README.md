@@ -55,7 +55,7 @@ Sistema de gestión de clientes y productos con panel administrativo.
 - Validaciones en frontend y backend.  
 - CRUD completo con seguridad básica.  
 
-🔗 [Repositorio](https://github.com/moimenta84/crm-rp) | 🧩 En desarrollo
+🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo
 
 ---
 
