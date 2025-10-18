@@ -42,8 +42,8 @@ Juego multijugador con lógica visual y sistema de puntuación.
 
 ### 🧩 QuizDAW
 Sistema de tests interactivos desde archivos JSON y PDF.  
-Permite generar, responder y evaluar preguntas automáticamente.  
-Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
+- Permite generar, responder y evaluar preguntas automáticamente.  
+- Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
 
 🔗 [Repositorio](https://github.com/iker/QuizDAW) | 🌐 [Demo en vivo](https://iker.github.io/QuizDAW)
 
