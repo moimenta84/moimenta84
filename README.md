@@ -40,7 +40,7 @@ Juego multijugador con lógica visual y sistema de puntuación.
 
 ---
 
-🧩 QuizDAW  
+###🧩 QuizDAW  
 Sistema de tests interactivos desde archivos JSON y PDF.
 
 Permite generar, responder y evaluar preguntas automáticamente.  
