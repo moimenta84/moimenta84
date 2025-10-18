@@ -37,12 +37,16 @@ Juego multijugador con lógica visual y sistema de puntuación.
 
 🔗 [Repositorio](https://github.com/moimenta84/7TH) | 🎥 *(Demo próximamente)*  
 
+
 ---
-🧩 QuizDAW
+
+🧩 QuizDAW  
 Sistema de tests interactivos desde archivos JSON y PDF.
-Permite generar, responder y evaluar preguntas automáticamente.
-Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.
+
+Permite generar, responder y evaluar preguntas automáticamente.  
+Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
 🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)
+
 ---
 
 ### ✈️ Agencia de Viajes  
@@ -52,6 +56,15 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 - Integración con **JSON** para cargar destinos y reservas.  
 
 🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
+
+---
+
+### 📊 CRM RP  
+Sistema de gestión de clientes y productos con panel administrativo.  
+- **AJAX** para interacciones rápidas.  
+- Validaciones en frontend y backend.  
+- CRUD completo con seguridad básica.  
+
 
 ---
 
