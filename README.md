@@ -40,12 +40,12 @@ Juego multijugador con lógica visual y sistema de puntuación.
 
 ---
 
-###🧩 QuizDAW  
+### 🧩 QuizDAW  
 Sistema de tests interactivos desde archivos JSON y PDF.
 -Permite generar, responder y evaluar preguntas automáticamente.  
 -Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
 
-🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)
+🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)*
 
 ---
 
