@@ -40,13 +40,12 @@ Juego multijugador con lógica visual y sistema de puntuación.
 
 ---
 
-### 🧩 QuizDAW  
-Sistema de tests interactivos desde archivos JSON y PDF.
--Permite generar, responder y evaluar preguntas automáticamente.  
--Incluye guardado de progreso, exportación de resultados.
--compatibilidad con GitHub Pages.  
+### 🧩 QuizDAW
+Sistema de tests interactivos desde archivos JSON y PDF.  
+Permite generar, responder y evaluar preguntas automáticamente.  
+Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
 
-🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)*
+🔗 [Repositorio](https://github.com/iker/QuizDAW) | 🌐 [Demo en vivo](https://iker.github.io/QuizDAW)
 
 ---
 
@@ -60,14 +59,6 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 
 ---
 
-### 📊 CRM RP  
-Sistema de gestión de clientes y productos con panel administrativo.  
-- **AJAX** para interacciones rápidas.  
-- Validaciones en frontend y backend.  
-- CRUD completo con seguridad básica.  
-
-
----
 
 ### 📊 CRM RP  
 Sistema de gestión de clientes y productos con panel administrativo.  
