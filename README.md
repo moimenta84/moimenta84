@@ -61,16 +61,10 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 ---
 
 
-### 📊 CRM RP  
-# 🧭 Proyecto CRM + ERP Multisucursal
+• CRUD completo para gestión de clientes y productos  
+• Validaciones en backend con Laravel Request  
+• Autenticación básica  
 
-## 📌 Descripción
-
-Este proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Negocio Multisucursal (CRM + ERP)** desde cero, utilizando **Laravel** para el backend, **Angular** para el frontend y **MySQL** como base de datos.
-
-El sistema permitirá gestionar **clientes, usuarios, sucursales, ventas, productos y reportes** de forma centralizada, con un enfoque modular, escalable y reutilizable.
-
-Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientado a crear un sistema real que pueda **adaptarse a distintos tipos de negocio** o **venderse a medida a clientes**.
 
 🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo
 
