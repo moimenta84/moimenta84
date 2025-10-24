@@ -102,10 +102,10 @@ El proyecto combina programación avanzada en Java con conceptos de diseño narr
 |-------------|------------------|
 | ☕ **Java 17+** | Lógica principal del juego |
 | 🟣 **Hibernate ORM** | Gestión de entidades y relaciones en base de datos |
-| 🧱 **MySQL / H2** | Base de datos para persistencia de partidas y entidades |
+| 🧱 **Postgress SQL** | Base de datos para persistencia de partidas y entidades |
 | 🧩 **Maven** | Gestión de dependencias |
 | 🧠 **POO / MVC** | Arquitectura del proyecto y separación de lógica |
-| 🎨 **Swing / JavaFX (opcional)** | Interfaz gráfica del juego |
+
 
 ---
 
