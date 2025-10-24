@@ -27,6 +27,11 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 
 ---
 
+
+
+
+
+
 # 🧭 Proyecto CRM + ERP Multisucursal
 
 ## 📌 Descripción
