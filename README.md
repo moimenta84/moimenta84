@@ -83,19 +83,28 @@ Además, es completamente **compatible con GitHub Pages**, lo que permite ejecut
 
 
 ---
+# ✈️ Proyecto Agencia de Viajes
 
-### ✈️ Agencia de Viajes  
-Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión de destinos.  
-- Frontend en **Bootstrap 5** con estilo personalizado.  
-- Backend en **PHP + PostgreSQL**.  
-- Integración con **JSON** para cargar destinos y reservas.
+## 📌 Descripción
 
-- 
-| Tecnología            | Función principal                                  
-| --------------------- | ---------------------------------------------|
-| 🟡 **PHP**     | Lógica del sistema de test y corrección automática |
-| 🔵 **HTML / CSS** | Interfaz visual y estructura responsive         |
+**Agencia de Viajes** es un sitio web **responsive** que permite **filtrar destinos, simular reservas y gestionar datos turísticos**.  
+Combina un **frontend visual en Bootstrap 5** con un **backend en PHP + PostgreSQL**, aplicando la arquitectura **MVC** y un diseño modular pensado para ampliarse fácilmente.
 
+El proyecto está orientado al aprendizaje de **PHP estructurado**, manejo de **bases de datos relacionales**, y la integración de **datos dinámicos mediante JSON**.
+
+---
+
+## ⚙️ Tecnologías base
+
+| Tecnología | Función principal |
+|-------------|------------------|
+| 🟡 **PHP** | Lógica del sistema, controladores y modelo de datos |
+| 🟢 **PostgreSQL** | Base de datos para destinos, reservas y usuarios |
+| 🔵 **HTML / CSS** | Estructura visual y diseño responsive |
+| 🟣 **Bootstrap 5** | Componentes visuales y maquetación adaptativa |
+| ⚪ **JSON** | Carga dinámica de destinos y reservas desde archivos |
+
+---
 
 
 🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
