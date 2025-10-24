@@ -53,6 +53,8 @@ Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientad
 🔗
 🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo | 🎥 *(Demo próximamente)* 
 
+---
+
 # 🧩 Proyecto QuizDAW
 ## 📌 Descripción
 
