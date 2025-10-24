@@ -28,12 +28,15 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 ---
 
 ## 🚀 Proyectos Destacados  
+# 🧭 Proyecto CRM + ERP Multisucursal
 
-### 🎮 Seven To Hell (7TH)  
-Juego multijugador con lógica visual y sistema de puntuación.  
-- Registro e inicio de sesión con persistencia en BD.  
-- Reglas dinámicas (aproximación al 80% de la media, penalizaciones y eliminación).  
-- Refactorizado con **Java + Hibernate + PostgreSQL**.  
+## 📌 Descripción
+
+Este proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Negocio Multisucursal (CRM + ERP)** desde cero, utilizando **Laravel** para el backend, **Angular** para el frontend y **MySQL** como base de datos.
+
+El sistema permitirá gestionar **clientes, usuarios, sucursales, ventas, productos y reportes** de forma centralizada, con un enfoque modular, escalable y reutilizable.
+
+Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientado a crear un sistema real que pueda **adaptarse a distintos tipos de negocio** o **venderse a medida a clientes**.
 
 🔗 [Repositorio](https://github.com/moimenta84/7TH) | 🎥 *(Demo próximamente)*  
 
