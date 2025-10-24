@@ -27,11 +27,6 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 
 ---
 
-
-
-
-
-
 # 🧭 Proyecto CRM + ERP Multisucursal
 
 ## 📌 Descripción
@@ -56,22 +51,34 @@ Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientad
 | 🔒 **Sanctum / JWT** | Autenticación segura de usuarios |
 
 🔗
-🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo | 🎥 *(Demo próximamente)*  
+🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo | 🎥 *(Demo próximamente)* 
 
+# 🧩 Proyecto QuizDAW
+## 📌 Descripción
+
+**QuizDAW** es un sistema de **tests interactivos** desarrollado con **JavaScript**, **HTML** y **JSON**, que permite generar, responder y evaluar preguntas de forma automática.
+
+El objetivo del proyecto es ofrecer una **herramienta educativa ligera, intuitiva y multiplataforma** para **evaluar conocimientos de forma dinámica**, tanto en entornos académicos como de autoaprendizaje.
+
+El sistema permite **leer archivos JSON o PDF** con preguntas, mostrar los tests en pantalla, evaluar las respuestas y generar un **informe de resultados exportable**.
+
+Además, es completamente **compatible con GitHub Pages**, lo que permite ejecutarlo directamente en el navegador sin necesidad de servidor backend.
 
 ---
 
-| Tecnología            | Función principal                                  |
-| --------------------- | -------------------------------------------------- |
-| 🟡 **JavaScript**     | Lógica del sistema de test y corrección automática |
-| 🔵 **HTML / CSS**     | Interfaz visual y estructura responsive            |
-| 🟣 **JSON**           | Almacenamiento y carga de preguntas                |
-| 🟢 **PDF.js / jsPDF** | Generación y lectura de tests en PDF               |
-| ⚪ **GitHub Pages**    | Publicación del proyecto en línea                  |
+## ⚙️ Tecnologías base
+
+| Tecnología | Función principal |
+|-------------|------------------|
+| 🟡 **JavaScript** | Lógica del sistema de test y corrección automática |
+| 🔵 **HTML / CSS** | Interfaz visual y estructura responsive |
+| 🟣 **JSON** | Almacenamiento y carga de preguntas |
+| 🟢 **PDF.js / jsPDF** | Generación y lectura de tests en PDF |
+| ⚪ **GitHub Pages** | Publicación del proyecto en línea |
 
 
 🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)
-)
+
 
 ---
 
@@ -90,10 +97,6 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 
 
 🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
-
-
-
-
 
 ---
 ## 📈 Estadísticas de GitHub  
