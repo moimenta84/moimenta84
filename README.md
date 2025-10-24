@@ -109,30 +109,15 @@ El proyecto combina programación avanzada en Java con conceptos de diseño narr
 
 ---
 
-## ✨ Características principales
+📝 Descripción General
+Seven To Hell es un juego multijugador por turnos en el que 8 jugadores compiten ingresando números entre 0 y 100.
+El objetivo es acercarse lo más posible a una media modificada.
+A medida que avanzan las rondas, los jugadores con menor puntuación son eliminados hasta que solo queda uno.
 
-• Sistema de **elecciones morales** que afecta la narrativa y el destino del jugador.  
-• **Entidades interrelacionadas** (Personajes, Misiones, Decisiones, Resultados).  
-• **Persistencia** mediante Hibernate con relaciones *muchos a muchos*.  
-• **Motor narrativo dinámico** basado en condiciones lógicas.  
-• **Sistema de progreso** guardado en base de datos.  
-• Posibilidad de añadir contenido mediante archivos externos (JSON o XML).  
-
----
-
-## 💡 Objetivos del proyecto
-
-• Experimentar con el **diseño narrativo y la toma de decisiones**.  
-• Aplicar **patrones de programación orientada a objetos** en un entorno real.  
-• Dominar la **configuración y uso de Hibernate ORM** para relaciones complejas.  
-• Desarrollar un **motor narrativo modular** adaptable a futuros proyectos.  
+Seven To Heaven es una variante donde un jugador tiene el rol de ADMIN con ventajas especiales.
+Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 
 ---
-
-## 🚀 Estructura del proyecto
-
-
-
 🔗 [Repositorio][(https://github.com/moimenta84/7TH))] | 🌍 🌐 [Demo en vivo] Proximnamente...
 
 ---
