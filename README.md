@@ -55,15 +55,20 @@ Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientad
 | ⚪ **Composer / NPM** | Gestión de dependencias |
 | 🔒 **Sanctum / JWT** | Autenticación segura de usuarios |
 
-🔗 [Repositorio](https://github.com/moimenta84/7TH) | 🎥 *(Demo próximamente)*  
+🔗
+🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo | 🎥 *(Demo próximamente)*  
 
 
 ---
 
-### 🧩 QuizDAW
-Sistema de tests interactivos desde archivos JSON y PDF.  
-- Permite generar, responder y evaluar preguntas automáticamente.  
-- Incluye guardado de progreso, exportación de resultados y compatibilidad con GitHub Pages.  
+| Tecnología            | Función principal                                  |
+| --------------------- | -------------------------------------------------- |
+| 🟡 **JavaScript**     | Lógica del sistema de test y corrección automática |
+| 🔵 **HTML / CSS**     | Interfaz visual y estructura responsive            |
+| 🟣 **JSON**           | Almacenamiento y carga de preguntas                |
+| 🟢 **PDF.js / jsPDF** | Generación y lectura de tests en PDF               |
+| ⚪ **GitHub Pages**    | Publicación del proyecto en línea                  |
+
 
 🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)
 )
@@ -74,19 +79,21 @@ Sistema de tests interactivos desde archivos JSON y PDF.
 Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión de destinos.  
 - Frontend en **Bootstrap 5** con estilo personalizado.  
 - Backend en **PHP + PostgreSQL**.  
-- Integración con **JSON** para cargar destinos y reservas.  
+- Integración con **JSON** para cargar destinos y reservas.
+
+- 
+| Tecnología            | Función principal                                  
+| --------------------- | ---------------------------------------------|
+| 🟡 **PHP**     | Lógica del sistema de test y corrección automática |
+| 🔵 **HTML / CSS** | Interfaz visual y estructura responsive         |
+
+
 
 🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
 
----
 
 
-• CRUD completo para gestión de clientes y productos  
-• Validaciones en backend con Laravel Request  
-• Autenticación básica  
 
-
-🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo
 
 ---
 ## 📈 Estadísticas de GitHub  
