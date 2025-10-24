@@ -62,15 +62,19 @@ Sitio responsive con **filtros dinámicos**, simulación de reservas y gestión 
 
 
 ### 📊 CRM RP  
-Sistema de gestión de clientes y productos con panel administrativo.  
-- **AJAX** para interacciones rápidas.  
-- Validaciones en frontend y backend.  
-- CRUD completo con seguridad básica.  
+# 🧭 Proyecto CRM + ERP Multisucursal
+
+## 📌 Descripción
+
+Este proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Negocio Multisucursal (CRM + ERP)** desde cero, utilizando **Laravel** para el backend, **Angular** para el frontend y **MySQL** como base de datos.
+
+El sistema permitirá gestionar **clientes, usuarios, sucursales, ventas, productos y reportes** de forma centralizada, con un enfoque modular, escalable y reutilizable.
+
+Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientado a crear un sistema real que pueda **adaptarse a distintos tipos de negocio** o **venderse a medida a clientes**.
 
 🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo
 
 ---
-
 ## 📈 Estadísticas de GitHub  
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=moimenta84&theme=github-compact" width="500"/>
 <img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="500"/>
