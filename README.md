@@ -129,12 +129,12 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 ---
 
 ## 🌱 Actualmente aprendiendo  
-- Arquitectura **MVC en PHP**  
-- Optimización de **consultas con Hibernate**  
-- Despliegue con **Docker & Kubernetes**  
 
+- Arquitectura MVC aplicada a PHP moderno
+- Optimización de consultas y relaciones complejas con Hibernate (Java)
+- Despliegue de aplicaciones usando Docker & Kubernetes
+- Integración de frontend moderno (React / Angular) con APIs PHP
 ---
-
 ## 📫 Conecta conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/)  
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:tuemail@ejemplo.com)  
