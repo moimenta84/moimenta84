@@ -27,7 +27,6 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 
 ---
 
-## 🚀 Proyectos Destacados  
 # 🧭 Proyecto CRM + ERP Multisucursal
 
 ## 📌 Descripción
@@ -37,6 +36,19 @@ Este proyecto tiene como objetivo desarrollar un **Sistema de Gestión de Negoci
 El sistema permitirá gestionar **clientes, usuarios, sucursales, ventas, productos y reportes** de forma centralizada, con un enfoque modular, escalable y reutilizable.
 
 Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientado a crear un sistema real que pueda **adaptarse a distintos tipos de negocio** o **venderse a medida a clientes**.
+
+---
+
+## ⚙️ Tecnologías base
+
+| Tecnología | Uso principal |
+|-------------|----------------|
+| 🟣 **Laravel** | Backend, API REST, autenticación |
+| 🔵 **Angular** | Frontend dinámico, SPA y panel de control |
+| 🟢 **MySQL** | Base de datos relacional |
+| 🟡 **Bootstrap / TailwindCSS** | Diseño responsive y moderno |
+| ⚪ **Composer / NPM** | Gestión de dependencias |
+| 🔒 **Sanctum / JWT** | Autenticación segura de usuarios |
 
 🔗 [Repositorio](https://github.com/moimenta84/7TH) | 🎥 *(Demo próximamente)*  
 
