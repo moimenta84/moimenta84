@@ -83,14 +83,16 @@ Además, es completamente **compatible con GitHub Pages**, lo que permite ejecut
 
 
 ---
-# ✈️ Proyecto Agencia de Viajes
+# 🎮 Proyecto 7TH — *Seven to Hell / Seven to Heaven*
 
 ## 📌 Descripción
 
-**Agencia de Viajes** es un sitio web **responsive** que permite **filtrar destinos, simular reservas y gestionar datos turísticos**.  
-Combina un **frontend visual en Bootstrap 5** con un **backend en PHP + PostgreSQL**, aplicando la arquitectura **MVC** y un diseño modular pensado para ampliarse fácilmente.
+**7TH (Seven to Hell / Seven to Heaven)** es un videojuego narrativo y de gestión de decisiones desarrollado en **Java**, con un sistema de entidades interconectadas mediante **Hibernate** y arquitectura **orientada a objetos**.
 
-El proyecto está orientado al aprendizaje de **PHP estructurado**, manejo de **bases de datos relacionales**, y la integración de **datos dinámicos mediante JSON**.
+El jugador recorre una historia marcada por la **dualidad moral**: cada acción lo acerca simbólicamente al **Cielo o al Infierno**.  
+Las decisiones, relaciones y resultados cambian el curso del juego, reflejando las consecuencias éticas de cada elección.
+
+El proyecto combina programación avanzada en Java con conceptos de diseño narrativo, lógica de estados y persistencia de datos.
 
 ---
 
@@ -98,13 +100,37 @@ El proyecto está orientado al aprendizaje de **PHP estructurado**, manejo de **
 
 | Tecnología | Función principal |
 |-------------|------------------|
-| 🟡 **PHP** | Lógica del sistema, controladores y modelo de datos |
-| 🟢 **PostgreSQL** | Base de datos para destinos, reservas y usuarios |
-| 🔵 **HTML / CSS** | Estructura visual y diseño responsive |
-| 🟣 **Bootstrap 5** | Componentes visuales y maquetación adaptativa |
-| ⚪ **JSON** | Carga dinámica de destinos y reservas desde archivos |
+| ☕ **Java 17+** | Lógica principal del juego |
+| 🟣 **Hibernate ORM** | Gestión de entidades y relaciones en base de datos |
+| 🧱 **MySQL / H2** | Base de datos para persistencia de partidas y entidades |
+| 🧩 **Maven** | Gestión de dependencias |
+| 🧠 **POO / MVC** | Arquitectura del proyecto y separación de lógica |
+| 🎨 **Swing / JavaFX (opcional)** | Interfaz gráfica del juego |
 
 ---
+
+## ✨ Características principales
+
+• Sistema de **elecciones morales** que afecta la narrativa y el destino del jugador.  
+• **Entidades interrelacionadas** (Personajes, Misiones, Decisiones, Resultados).  
+• **Persistencia** mediante Hibernate con relaciones *muchos a muchos*.  
+• **Motor narrativo dinámico** basado en condiciones lógicas.  
+• **Sistema de progreso** guardado en base de datos.  
+• Posibilidad de añadir contenido mediante archivos externos (JSON o XML).  
+
+---
+
+## 💡 Objetivos del proyecto
+
+• Experimentar con el **diseño narrativo y la toma de decisiones**.  
+• Aplicar **patrones de programación orientada a objetos** en un entorno real.  
+• Dominar la **configuración y uso de Hibernate ORM** para relaciones complejas.  
+• Desarrollar un **motor narrativo modular** adaptable a futuros proyectos.  
+
+---
+
+## 🚀 Estructura del proyecto
+
 
 
 🔗 [Repositorio](https://github.com/moimenta84/Agencia) | 🌍 Refactorizando código y arquitectura
