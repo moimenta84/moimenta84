@@ -128,6 +128,8 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 
 <img src="https://streak-stats.demolab.com?user=moimenta84&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500"/>
 
+## 📈 Lenguajes más usados 
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=donut&theme=tokyonight" width="400"/>
 
 ---
