@@ -25,6 +25,10 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
+## 💻 Lenguajes más usados
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=donut&theme=tokyonight" width="400"/>
+
+
 ---
 
 # 🧭 Proyecto CRM + ERP Multisucursal
@@ -122,8 +126,7 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 
 ---
 ## 📈 Estadísticas de GitHub  
-<img src="https://metrics.lecoq.io/moimenta84?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&base=header,activity,community,repositories,metadata&config.timezone=Europe/Madrid" width="600"/>
-
+<img src="https://streak-stats.demolab.com?user=moimenta84&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500"/>
 
 
 ---
