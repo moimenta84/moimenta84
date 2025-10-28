@@ -1,6 +1,7 @@
 👋 Hola, soy Iker Martínez Velasco
+![Typing SVG](https://readme-typing-svg.demolab.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Java+%7C+JS+%7C+SQL;Construyendo+soluciones+escalables;Apasionado+por+el+desarrollo+web)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=1E90FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;PHP+%7C+Java+%7C+JS+%7C+SQL;Construyendo+soluciones+escalables;Apasionado+por+el+desarrollo+web)
+
 
 
 💻 Full Stack Developer | PHP • Java • JavaScript • Laravel • Angular • SQL
