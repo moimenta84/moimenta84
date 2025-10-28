@@ -26,10 +26,6 @@ frontend con Angular, y bases de datos PostgreSQL/MySQL.
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
-## 💻 Lenguajes más usados
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=donut&theme=tokyonight" width="400"/>
-
-
 ---
 
 # 🧭 Proyecto CRM + ERP Multisucursal
