@@ -126,7 +126,6 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 🔗 [Repositorio][(https://github.com/moimenta84/7TH))] | 🌍 🌐 [Demo en vivo] Proximnamente...
 
 ---
-## 📈 Estadísticas de GitHub  
 <img src="https://streak-stats.demolab.com?user=moimenta84&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500"/>
 
 
