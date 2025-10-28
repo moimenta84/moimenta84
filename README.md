@@ -122,9 +122,8 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 
 ---
 ## 📈 Estadísticas de GitHub  
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=moimenta84&theme=tokyo-night" width="500"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moimenta84&theme=github-compact" width="500"/>
-<img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="500"/>
+<img src="https://metrics.lecoq.io/moimenta84?template=classic&isocalendar=1&languages=1&introduction=1&followup=1&base=header,activity,community,repositories,metadata&config.timezone=Europe/Madrid" width="600"/>
+
 
 
 ---
