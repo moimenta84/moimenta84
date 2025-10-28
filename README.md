@@ -125,7 +125,8 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 ## 📈 Estadísticas de GitHub  
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=moimenta84&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" width="500"/>
+<img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&token=ghp_aBc123DEF45gHiJkLmnOPQrsTuvWxYZ6789" width="500"/>
+
 
 
 
