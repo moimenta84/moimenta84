@@ -122,17 +122,13 @@ Si el ADMIN pierde, todos los usuarios ganan automáticamente.
 🔗 [Repositorio][(https://github.com/moimenta84/7TH))] | 🌍 🌐 [Demo en vivo] Proximnamente...
 
 ---
-## 📈 Estadísticas de GitHub  
-<img src="https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=tokyonight" />
+## 📈 Estadísticas de GitHub
 
+![Stats](https://github-readme-stats.vercel.app/api?username=moimenta84&show_icons=true&theme=tokyonight)
 
+## 📈 Lenguajes más usados
 
-
-
-
-## 📈 Lenguajes más usados 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=donut&theme=tokyonight" width="400"/>
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moimenta84&layout=donut&theme=tokyonight)
 
 ---
 
