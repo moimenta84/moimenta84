@@ -51,36 +51,30 @@ Este proyecto forma parte de un proceso de **aprendizaje profesional**, orientad
 | ⚪ **Composer / NPM** | Gestión de dependencias |
 | 🔒 **Sanctum / JWT** | Autenticación segura de usuarios |
 
-🔗
+
 🔗 [Repositorio](https://github.com/moimenta84/Crm-platform) | 🧩 En desarrollo | 🎥 *(Demo próximamente)* 
 
 ---
 
-# 🧩 Proyecto QuizDAW
+# 🧩 Teach - Learn
 ## 📌 Descripción
 
-**QuizDAW** es un sistema de **tests interactivos** desarrollado con **JavaScript**, **HTML** y **JSON**, que permite generar, responder y evaluar preguntas de forma automática.
-
-El objetivo del proyecto es ofrecer una **herramienta educativa ligera, intuitiva y multiplataforma** para **evaluar conocimientos de forma dinámica**, tanto en entornos académicos como de autoaprendizaje.
-
-El sistema permite **leer archivos JSON o PDF** con preguntas, mostrar los tests en pantalla, evaluar las respuestas y generar un **informe de resultados exportable**.
-
-Además, es completamente **compatible con GitHub Pages**, lo que permite ejecutarlo directamente en el navegador sin necesidad de servidor backend.
+*Tech & Learn es una plataforma web de comercio electrónico educativo que combina la venta de productos tecnológicos con un centro de aprendizaje digital.
 
 ---
 
 ## ⚙️ Tecnologías base
 
 | Tecnología | Función principal |
-|-------------|------------------|
-| 🟡 **JavaScript** | Lógica del sistema de test y corrección automática |
-| 🔵 **HTML / CSS** | Interfaz visual y estructura responsive |
-| 🟣 **JSON** | Almacenamiento y carga de preguntas |
-| 🟢 **PDF.js / jsPDF** | Generación y lectura de tests en PDF |
-| ⚪ **GitHub Pages** | Publicación del proyecto en línea |
+|------------|------------------|
+| ⚛️ **React** | Construcción de la interfaz y gestión de componentes |
+| 🟡 **JavaScript (ES6+)** | Lógica de negocio y comportamiento de la aplicación |
+| 🔵 **HTML / CSS** | Estructura visual, maquetación y diseño responsive |
+| 🟣 **JSON** | Datos mock de productos, valoraciones y contenido educativo |
+| 🟢 **Firebase** | Backend, autenticación y gestión de datos |
 
 
-🔗 [Repositorio](https://github.com/moimenta84/QuizDaw) | 🌐 [Demo en vivo](https://moimenta84.github.io/QuizDaw/)
+🔗 [Repositorio](https://github.com/moimenta84/Tech-Learn) | 🌐 [Demo en vivo](https://proyectoreact-01-d72fe.web.app/)
 
 
 ---
